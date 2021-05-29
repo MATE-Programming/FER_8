@@ -6,3 +6,9 @@
 
 #### 1. Макет для верстки на HTML
 ![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_8/site.jpg?raw=true)
+
+{% next "Материалы для сайта" %}
+
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_8/header.png)
+
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_8/site.jpg)
