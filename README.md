@@ -6,5 +6,9 @@
 
 {% next "Материалы для сайта" %}
 
-![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_9/bandicam%202021-06-01%2015-15-20-868.jpg?raw=true)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_8/header.png)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_8/header.png?raw=true)
+
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_8/site.jpg)
+![alt MATE Programming Lab](https://github.com/MATE-Programming/Lab_logo/blob/main/FER_8/bg.png?raw=true)
 
